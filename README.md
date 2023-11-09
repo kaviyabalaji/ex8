@@ -16,8 +16,8 @@ Step 3: Then select the Minimum SDK as shown below and click Next. Step 4: Then 
 ```
 /*
 Program to print the text “GalleryControl”.
-Developed by:V R ANU AYSHWARYA
-Registeration Number :212221040016
+Developed by:R.K Pragalyaa shree
+Registeration Number :212221040125
 */
 ```
 ## activity_main.xml
